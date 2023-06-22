@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2WebApp", "Test2WebApp\Test2WebApp.csproj", "{9DE87B42-F6C6-40AF-BC69-C0D55B440570}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test2WebApp", "Test2WebApp\Test2WebApp.csproj", "{9DE87B42-F6C6-40AF-BC69-C0D55B440570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRazor", "TestRazor\TestRazor.csproj", "{851D0054-1ED5-4677-9A8A-860BD1E7411C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9DE87B42-F6C6-40AF-BC69-C0D55B440570}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DE87B42-F6C6-40AF-BC69-C0D55B440570}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DE87B42-F6C6-40AF-BC69-C0D55B440570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851D0054-1ED5-4677-9A8A-860BD1E7411C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851D0054-1ED5-4677-9A8A-860BD1E7411C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851D0054-1ED5-4677-9A8A-860BD1E7411C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851D0054-1ED5-4677-9A8A-860BD1E7411C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
