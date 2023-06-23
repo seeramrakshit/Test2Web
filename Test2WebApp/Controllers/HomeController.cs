@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using Test2WebApp.Models;
+using Test2.Models;
 
 namespace Test2WebApp.Controllers
 {

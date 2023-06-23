@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Test2WebApp.Data;
+using Test2.DataAccess.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -1,8 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Test2WebApp.Models;
+using Test2.Models;
 //using Microsoft.EntityFrameworkCore.Scaffolding.Internal;
 
-namespace Test2WebApp.Data
+namespace Test2.DataAccess.Data
 {
     public class ApplicationDbContext : DbContext
     {

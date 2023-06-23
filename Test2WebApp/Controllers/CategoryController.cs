@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Test2WebApp.Data;
-using Test2WebApp.Models;
+using Test2.DataAccess.Data;
+using Test2.Models;
 
 namespace Test2WebApp.Controllers
 {
